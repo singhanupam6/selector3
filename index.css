@@ -1,0 +1,35 @@
+h2{
+    color: brown;
+}
+h2 strong{
+    color: aquamarine;
+    text-decoration: underline;
+}
+h2 strong:hover{
+    color: crimson;
+}
+p{
+    font-size: medium;
+    text-transform: uppercase;
+    color: blueviolet;
+    background-color: bisque;
+}
+p:hover{
+    color: aqua;
+}
+#main{
+    background-color: rgb(17, 17, 16);
+    color: azure;
+    padding-right: 20px;
+}
+#main:hover{
+    color: dodgerblue;
+}
+table{
+    font-stretch: expanded;
+    letter-spacing: 1px;
+    font-size: x-large;
+}
+#menu:hover{
+    color: tomato;
+}
