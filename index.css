@@ -1,3 +1,8 @@
+body{
+    background-image: url(https://lifestyle.prod.content.iproperty.com/news/wp-content/uploads/sites/3/2020/04/03153942/124456333_m.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 h2{
     color: brown;
 }
@@ -16,6 +21,7 @@ p{
 }
 p:hover{
     color: aqua;
+    font-size: larger;
 }
 #main{
     background-color: rgb(17, 17, 16);
@@ -32,4 +38,8 @@ table{
 }
 #menu:hover{
     color: tomato;
+}
+#menu{
+    color: rgb(233, 6, 82);
+    background-color: gray;
 }
